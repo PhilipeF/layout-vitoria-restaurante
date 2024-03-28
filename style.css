@@ -58,3 +58,7 @@ body {
 .social-links a {
     text-decoration: none;
 }
+
+@meida (max-width: 767px) {
+    
+}
